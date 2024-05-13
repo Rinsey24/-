@@ -7,4 +7,6 @@
 - Обрезка до нужного размера (crop)
 - Отражение по горизонтали
 - Поворот вокруг оси
-![alt text](https://github.com/[Rinsey24]/[image-editor]/blob/[main]/photo1715547136.jpg?raw=true)
+
+
+![image_editor](https://github.com/Rinsey24/image-editor/main/photo1715547136.jpeg)
