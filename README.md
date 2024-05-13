@@ -9,4 +9,4 @@
 - Поворот вокруг оси
 
 
-![image_editor](https://github.com/Rinsey24/image-editor/main/photo1715547136.jpeg)
+![image_editor](https://github.com/Rinsey24/image-editor/blob/main/photo1715547136.jpeg)
